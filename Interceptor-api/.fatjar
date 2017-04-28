@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat Apr 01 18:03:56 CST 2017
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=C\:\\Users\\troila\\Desktop\\Interceptor-api.jar
+manifest.mergeall=true
+manifest.mainclass=com.sso.Interceptor
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
